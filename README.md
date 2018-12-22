@@ -1,11 +1,11 @@
-# PHP Payroll Application
+# PHP Quiz Application
 
 
-A web application build in PHP for keeping the records of employees with many more features such as monthly income and daily attendence.
+A simple application built in PHP for conducting a quiz and generating its result
 
 ## Getting Started
 
-Full documentation to the project is attached with the project inside documentaion folder.
+Download the project and configure the database.php file inside the application/config folder. You can also configure the base url inside the config.php file.
 
 ### Prerequisites
 
